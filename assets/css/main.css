@@ -97,8 +97,8 @@
 }
 
 :root {
-    --tg-ff-body: "Poppins", sans-serif;
-    --tg-ff-outfit: "Outfit", sans-serif;
+    --tg-ff-body: 'Open Sans', 'Arial', sans-serif;
+    --tg-ff-outfit: "Open Sans", sans-serif;
     --tg-ff-segoepr: 'segoepr', sans-serif;
     --tg-ff-chillax: 'chillax', sans-serif;
     --tg-ff-quentin: 'quentin', sans-serif;
@@ -4093,7 +4093,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .tg-hero-tu-2-wrapper .tg-hero-3-title {
     font-weight: 800;
-    font-size: 60px;
+    font-size: 40px;
     font-family: var(--tg-ff-outfit);
 }
 
