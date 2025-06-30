@@ -3628,7 +3628,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 ===============================*/
 
 .tg-hero-slider-active {
-    height: 740px;
+    height: 622px;
 }
 
 @media (max-width: 575px) {
@@ -3655,6 +3655,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
     -ms-transition: all 0.3s 0s ease-out;
     -o-transition: all 0.3s 0s ease-out;
     transition: all 0.3s 0s ease-out;
+    display: none;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px),
